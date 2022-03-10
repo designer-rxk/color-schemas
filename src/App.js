@@ -5,7 +5,7 @@ import Schemas from "./Components/Schemas";
 function App() {
 
   return (
-    <div className={"Page"}>
+    <div>
         <Schemas/>
     </div>
   );
